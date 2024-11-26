@@ -1,2 +1,3 @@
-# intr2002-bonus-01
-my first repo experience 
+# First repo exp
+
+This is my first attempt at using Codespaces and Pages
